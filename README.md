@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Deniz 👋
 
-<!--
-**denizmadak/denizmadak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school prep student at Üsküdar American Academy in Istanbul. I am currently building my foundational skills in software development, exploring artificial intelligence, and stepping into the tech world.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Doing Right Now
+- **Learning:** Improving my programming fundamentals (Python/Web technologies) and leveling up my English.
+- **Clubs:** Active member of the AI Club, DECA, and Debate Society at school.
+- **Goal:** Building real-world projects, understanding how game/software systems work, and preparing myself for a global career in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools (Learning in Progress)
+- **Languages:** Python (beginner), HTML/CSS
+- **Tools:** Git, GitHub, VS Code
+- **Soft Skills:** Problem-solving, public speaking (Debate), strategic thinking (DECA)
+
+### 📊 GitHub Stats
+![Deniz's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical)
